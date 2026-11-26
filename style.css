@@ -1,7 +1,8 @@
 p {
   font-size: 25px;
   margin-left: 50px;
-  line-height: 25px;
+  line-height: 5px;
+  margin-block: 1em;
 }
 
 h1 {

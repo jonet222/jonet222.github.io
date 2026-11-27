@@ -7,7 +7,7 @@ p {
 h1 {
   font-size: 50px;
   margin-left: 25px;
-  line-height: 3;
+  line-height: 1.5;
 }
 
 a {
@@ -19,7 +19,7 @@ a {
 h2 {
   font-size: 35px;
   margin-left: 35px;
-  line-height: 2;
+  line-height: 1;
 }
 
 img {
